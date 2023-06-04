@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Avi Cohen",
+      "sn": 885581,
+      "balance": 0,
+      "pin": "1234"
+   },
+   {
+      "name": "Shon Levi",
+      "sn": 216387,
+      "balance": 0,
+      "pin": "1998"
+   },
+   {
+      "name": "Nati Mygdal",
+      "sn": 308822,
+      "balance": 1000,
+      "pin": "1998"
+   }
+]
